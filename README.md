@@ -27,6 +27,16 @@ A modern and responsive front-end for an e-commerce website. This project is bui
 
 ---
 
+## 🙏 Credits
+
+This project is based on the work of Code with Sadee on YouTube.
+📺 Watch the original tutorial - https://youtu.be/3l8Lob4ysI0?si=vuNEV2qkCoDcnU89
+
+## 🙋‍♂️ Author
+
+Sourabh Singh Rawat
+🔗 GitHub – Sourabh-developer
+
 ## 🧰 Getting Started
 
 To run this project locally:
